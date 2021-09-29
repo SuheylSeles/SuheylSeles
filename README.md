@@ -1,23 +1,23 @@
-# Merhaba, Ben Süheyl SELEŞ. 🙂
+# Hi, I am Süheyl SELES. 🙂
 
-Süheyl kimdir ve ne iş yapar diyecek olanlara?
+Who is Süheyl and what does he do?
 
-Öğrendikçe anlayan,
+The more you learn, the more you understand
 
-Anladıkça seven,
+Loving as you understand,
 
-Sevdikçe daha çok çalışası gelen ve kendini sürekli geliştirmeye çalışan bir Bilgisayar Mühendisiyim.
+I am a Computer Engineer who works more as he loves and tries to improve himself constantly.
 
-VBT Yazılım A.Ş. şirketinde Software Developer olarak çalışmaktayım. 
+VBT Software Inc. I am working as a Software Developer.
 
-Bildiğim Programlama Dilleri ve Kullandığım Teknolojiler : C, C++, C#, Html, Css, Python, Javascript(Node.js ve Vue.js), Java, Linux, Sql ..
+Programming Languages I Know and Technologies I Use : C, C++, C#, Html, Css, Python, Javascript(Node.js ve Vue.js), Java, Linux, Sql ..
 
 ## 👨‍💻 Süheyl SELEŞ - Computer Engineer
   
-🤝Sosyal Medya Hesaplarım
+🤝 My Social Media Accounts
 
 - https://www.linkedin.com/in/s%C3%BCheyl-sele%C5%9F-20363ba1/
-- Mail ile iletişime geçebilirsiniz. ---> suheylseles@gmail.com
+- You can contact by mail. ---> suheylseles@gmail.com
 
 ##
 
