@@ -2,9 +2,9 @@
 
 Who is Süheyl and what does he do?
 
-The more you learn, the more you understand
+The more I learn, the more I understand
 
-Loving as you understand,
+Loving as I understand,
 
 I am a Computer Engineer who works more as he loves and tries to improve himself constantly.
 
