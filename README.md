@@ -3,7 +3,9 @@
 Süheyl kimdir ve ne iş yapar diyecek olanlara?
 
 Öğrendikçe anlayan,
+
 Anladıkça seven,
+
 Sevdikçe daha çok çalışası gelen ve kendini sürekli geliştirmeye çalışan bir Bilgisayar Mühendisiyim.  VBT Yazılım A.Ş. şirketinde Software Developer olarak çalışmaktayım. 
 
 Bildiğim Programlama Dilleri ve Kullandığım Teknolojiler : C, C++, C#, HTML, CSS, PYTHON, JAVASRIPT, JAVA, LINUX, SQL
