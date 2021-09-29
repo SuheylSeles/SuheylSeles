@@ -2,7 +2,7 @@
 
 Who is Süheyl and what does he do?
 
-The more I learn, the more I understand
+The more I learn, the more I understand,
 
 Loving as I understand,
 
