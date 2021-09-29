@@ -1,16 +1,28 @@
-### Hi there 👋
+# Merhaba, Ben Süheyl SELEŞ. 
 
+Süheyl kimdir ve ne iş yapar diyecek olanlara?
 
-**SuheylSeles/SuheylSeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Öğrendikçe anlayan,
+Anladıkça seven,
+Sevdikçe daha çok çalışası gelen ve kendini sürekli geliştirmeye çalışan bir Bilgisayar Mühendisiyim.  VBT Yazılım şirketinde Software Developer olarak çalışmaktayım. 
 
-Here are some ideas to get you started:
+Bildiğim Programlama Dilleri ve Kullandığım Teknolojiler : C, C++, C#, HTML, CSS, PYTHON, JS, JAVA, LINUX, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💻Süheyl SELEŞ - Computer Engineer
+  
 
+🤝Sosyal Medya Hesaplarım
+
+- https://www.linkedin.com/in/s%C3%BCheyl-sele%C5%9F-20363ba1/
+- suheylseles@gmail.com
+
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuheylSeles&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuheylSeles&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--! [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuheylSeles&theme=dark)](https://git.io/streak-stats) -->
+
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SuheylSeles) -->
+
+![Profile views](https://gpvc.arturio.dev/SuheylSeles)  
