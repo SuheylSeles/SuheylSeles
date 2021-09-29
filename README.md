@@ -8,7 +8,7 @@ Love as I understand,
 
 I am a Computer Engineer who works more as he loves and tries to improve himself constantly.
 
-VBT Software Inc. I am working as a Software Developer.
+I am working as a Software Developer at VBT Software Inc. 🏢
 
 Programming Languages I Know and Technologies I Use : C, C++, C#, Html, Css, Python, Javascript(Node.js ve Vue.js), Java, Linux, Sql ..
 
