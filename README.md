@@ -10,7 +10,7 @@ Sevdikçe daha çok çalışası gelen ve kendini sürekli geliştirmeye çalı�
 
 VBT Yazılım A.Ş. şirketinde Software Developer olarak çalışmaktayım. 
 
-Bildiğim Programlama Dilleri ve Kullandığım Teknolojiler : C, C++, C#, Html, Css, Python, Javascript(Node.js ve Vue.js), Java, Linux, Sql
+Bildiğim Programlama Dilleri ve Kullandığım Teknolojiler : C, C++, C#, Html, Css, Python, Javascript(Node.js ve Vue.js), Java, Linux, Sql ..
 
 ## 👨‍💻 Süheyl SELEŞ - Computer Engineer
   
