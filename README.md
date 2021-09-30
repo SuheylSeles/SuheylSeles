@@ -1,4 +1,4 @@
-# Hi, I am Süheyl SELEŞ. 🙂
+# Hi, I'm Süheyl SELEŞ. 🙂
 
 Who is Süheyl and what does he do?
 
