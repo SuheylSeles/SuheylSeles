@@ -17,6 +17,7 @@ Programming Languages I Know and Technologies I Use : C, C++, C#, Html, Css, Pyt
 🤝 My Social Media Accounts
 
 - https://www.linkedin.com/in/s%C3%BCheyl-sele%C5%9F-20363ba1/
+- https://medium.com/@suheylseles
 - You can contact by mail. ---> suheylseles@gmail.com
 
 ##
