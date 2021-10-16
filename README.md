@@ -22,8 +22,8 @@ Programming Languages I Know and Technologies I Use : C, C++, C#, Html, Css, Pyt
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuheylSeles&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuheylSeles&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuheylSeles&show_icons=true&theme=radical)](https://github.com/SuheylSeles/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuheylSeles&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/SuheylSeles/github-readme-stats)
 
 <!--! [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuheylSeles&theme=dark)](https://git.io/streak-stats) -->
 
