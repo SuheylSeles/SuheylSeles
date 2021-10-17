@@ -10,7 +10,7 @@ I am a Computer Engineer who works more as he loves and tries to improve himself
 
 I am working as a Software Developer at VBT Software Inc. 🏢
 
-Programming Languages I Know and Technologies I Use : C, C++, C#, Html, Css, Python, Javascript(Node.js ve Vue.js), Java, Linux, Sql ..
+Programming Languages I Know and Technologies I Use : C, C++, C#, Html, Css, Python, Javascript(Node.js and Vue.js), Java, Linux, Sql ..
 
 Areas of interest : Artificial Intelligence, Machine Learning, Deep Learning, Artificial Neural Networks, Image Processing, Data Mining, Software Engineering, Web Services, Geographic Information Systems ...
 
