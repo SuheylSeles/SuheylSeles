@@ -20,7 +20,7 @@ Areas of interest : Artificial Intelligence, Machine Learning, Deep Learning, Ar
 
 - https://www.linkedin.com/in/s%C3%BCheyl-sele%C5%9F-20363ba1/
 - https://medium.com/@suheylseles
-- You can contact by mail. ---> suheylseles@gmail.com
+- suheylseles@gmail.com ---> You can contact by mail.
 
 ##
 
