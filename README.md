@@ -10,6 +10,10 @@ I am a Computer Engineer who works more as he loves and tries to improve himself
 
 I am working as a Software Developer at VBT Software Inc. 🏢
 
+- I worked as a test engineer in the doctor and patient video call application, which solved the errors and increased the functionality of the application.
+- I worked as a software developer in the video call application.
+- Also, I am getting certifications in data science. You can check it out on Linkedin.
+
 Programming Languages I Know and Technologies I Use : C, C++, C#, Html, Css, Python, Javascript(Node.js and Vue.js), Java, Linux, Sql ..
 
 Areas of interest : Artificial Intelligence, Machine Learning, Deep Learning, Artificial Neural Networks, Image Processing, Data Mining, Software Engineering, Web Services, Geographic Information Systems ...
