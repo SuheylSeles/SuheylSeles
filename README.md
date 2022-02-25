@@ -8,7 +8,7 @@ Love as I understand,
 
 I am a Computer Engineer who works more as he loves and tries to improve himself constantly.
 
-I am worked as a Software Developer at VBT Software Inc. 🏢 ( November 2020 April 2022 )
+I am worked as a Software Developer at VBT Software Inc. 🏢 ( November 2020 - April 2022 )
 
 - I worked as a test engineer in the doctor and patient video call application, which solved the errors and increased the functionality of the application.
 - I worked as a software developer in the video call application. (vue.js, node.js, mongoDB, docker, etc..)
